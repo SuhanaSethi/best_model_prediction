@@ -34,6 +34,9 @@ The Bayesian model performed well with the following metrics:
 
 ![image](https://github.com/user-attachments/assets/3e774922-f2e1-42b2-b235-340ff6a27079)
 
+![image](https://github.com/user-attachments/assets/88e2b6a0-f0ff-4535-ba0d-fe807a751008)
+
+
 
 
 
