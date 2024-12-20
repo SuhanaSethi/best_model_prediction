@@ -9,7 +9,7 @@
 - The target variable for this model is **Target2**.
 - The dataset includes multiple columns, and other target columns (`Target1`, `Target3`, `Target4`, `Target5`) were dropped for the analysis.
   
-### Data Preprocessing:
+## Data Preprocessing:
 - **Target columns** other than `Target2` were removed.
 - The data was split into **training (70%)** and **testing (30%)** sets.
 - **Normalization** and **transformation** techniques were applied to scale the features and enhance model performance.
